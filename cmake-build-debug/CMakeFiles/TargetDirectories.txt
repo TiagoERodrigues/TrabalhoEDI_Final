@@ -1,0 +1,3 @@
+C:/Users/Tiago IFMG/Documents/IFMG/03/Estrut Dados I/Trabalho2-ED/cmake-build-debug/CMakeFiles/Trabalho2EDI.dir
+C:/Users/Tiago IFMG/Documents/IFMG/03/Estrut Dados I/Trabalho2-ED/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tiago IFMG/Documents/IFMG/03/Estrut Dados I/Trabalho2-ED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
